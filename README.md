@@ -60,14 +60,13 @@ Hoje construo aplicações web do front ao back, combinando uma base técnica em
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🔢 [Calories Counter](https://github.com/gabrielmoura-dev/calories-counter)
+### [Calories Counter](https://github.com/gabrielmoura-dev/calories-counter)
 Aplicação React + TypeScript que consome uma API nutricional dos EUA (USDA) para rastreamento de calorias. Projeto solo focado em consumo de APIs externas, gerenciamento de estado e componentização.
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
