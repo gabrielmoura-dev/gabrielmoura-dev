@@ -13,7 +13,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e estou cons
 
 Hoje construo aplicações web do front ao back, combinando uma base técnica em crescimento com olhar para **UI/UX** e uma mentalidade de resolução de problemas moldada por experiência institucional real. Busco meu primeiro **estágio em desenvolvimento** onde possa contribuir com um time que valoriza código limpo, colaboração e aprendizado contínuo.
 
-🌍 Porto Alegre, RS - Disponível para vagas presenciais e remotas  
+🌍 Porto Alegre, RS - Disponível para vagas presenciais, remotas e realocação.  
 🗣️ Português (C2) · English (C1) · Español (B1)
 
 ---
