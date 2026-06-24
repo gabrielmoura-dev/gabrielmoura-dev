@@ -17,4 +17,4 @@ Hoje construo aplicações web do front ao back, combinando uma base técnica em
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,python,express,postgres,git,github,figma)](https://skillicons.dev)
 
 ### Estatísticas
-![Linguagens](https://gist.githubusercontent.com/gabrielmoura-dev/ca917abe3a36857dd18b379a43f3267f/raw/github-metrics.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoura-dev&layout=compact&theme=dark&hide_border=true)
