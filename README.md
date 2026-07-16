@@ -5,7 +5,7 @@
 
 - 👩‍💻 Desenvolvedor Fullstack 
 - ⚙️ Construindo projetos práticos para consolidar fundamentos de desenvolvimento
-- 🌱 Aprofundando conhecimentos em React Vite, Node.js e PostgreSQL
+- 🌱 Aprofundando conhecimentos em React, Next.js, NestJS Node.js e PostgreSQL
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas - FIAP
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e estou construindo minha carreira como desenvolvedor Full-Stack. Antes de migrar para tecnologia, trabalhei setor de eSports e trouxe comigo habilidades que fazem diferença no desenvolvimento: atenção aos detalhes, visão de processos, organização, perfomance e foco em resultados.
