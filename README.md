@@ -1,7 +1,10 @@
 # Oi, eu sou o Gabriel Moura! 👋
 
-[![Meu LinkedIn](https://img.shields.io/badge/Meu%20LinkedIn-000000?style=flat&logo=linkedin&logoColor=e7e7e7&color=e7e7e7&labelColor=00000000)](https://www.linkedin.com/in/gabriel-moura-ferreira)
-[![gabriel-moura96@outlook.com](https://img.shields.io/badge/gabriel-moura96@outlook.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:gabriel-moura96@outlook.com)
+<div>
+  <a href="mailto:gabriel-moura96@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-bb001b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-moura-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
 
 - 👨‍💻 Desenvolvedor Fullstack em transição de carreira
 - ⚙️ Construindo projetos fullstack com NestJS, Next.js e testes automatizados
